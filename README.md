@@ -1,6 +1,6 @@
 Simple Yet Powerful Anti-detect browser for web scraping and automation. For unlimited profiles, proxies support, unique fingerprint...
 
-![Screenshot](/Saga-Antidetect-Browser.gif)
+![Screenshot](/Saga-Antidetect-Browser.gif.gif)
 ![Screenshot](/Saga-Antidetect-Browser.png)
 <h2>🎬 Demo Video</h2>
 <p>
