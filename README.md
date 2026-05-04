@@ -1,11 +1,10 @@
 Simple Yet Powerful Anti-detect browser for web scraping and automation. For unlimited profiles, proxies support, unique fingerprint...
 
-![Screenshot](/Sanmao_SMTP_Cracker_1.75.png)
-
+![Screenshot](/Saga-Antidetect-Browser.gif)
+![Screenshot](/Saga-Antidetect-Browser.png)
 <h2>🎬 Demo Video</h2>
 <p>
-  <a href="">Watch Demo Video</a></br>
-  <a href="">Watch Demo Video</a>
+  <a href="https://odysee.com/@SoftHatch:5/Saga-Anti-Detect-Browser:d">Watch Demo Video</a></br>
 </p>
 
 <h2>📬 Contact</h2>
