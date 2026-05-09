@@ -4,9 +4,11 @@ Simple Yet Powerful Anti-detect browser for web scraping and automation. For unl
 ![Screenshot](/Saga-Antidetect-Browser.png)
 <h2>🎬 Demo Video</h2>
 <p>
+  <a href="https://www.youtube.com/watch?v=n2UvrzknYgE">Watch Demo Video</a></br>
+</p>
+<p>
   <a href="https://odysee.com/@SoftHatch:5/Saga-Anti-Detect-Browser:d">Watch Demo Video</a></br>
 </p>
-
 <h2>📬 Contact</h2>
 
 <p>
